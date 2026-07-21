@@ -2,7 +2,7 @@
 // ==UserScript==
 // @name         Camp Aux Monitor by yalnunez
 // @namespace    tampermonkey.net/
-// @version      0.9.1
+// @version      0.9.2
 // @updateURL    https://raw.githubusercontent.com/yalnunez/campbotdaniteam/main/camp-aux-monitor-dani.user.js
 // @downloadURL  https://raw.githubusercontent.com/yalnunez/campbotdaniteam/main/camp-aux-monitor-dani.user.js
 // @description  Monitor CAMP AUX durations, send alerts (managers + team), auto-change state - Sequential AutoClick (3.5s), System via Outage Time, Break/Lunch/Personal double-check, Missed double-check via Missed Contacts column, On Contact alternating alerts, AWS UI Cloudscape dropdown fix, Post-dropdown agent verification, ANTI-THROTTLE
