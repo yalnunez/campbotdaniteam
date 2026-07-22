@@ -1198,7 +1198,7 @@ function delay(ms) {
     });
 
     pauseBtn.disabled = true;
-    addStatusMessage('v0.9.1 loaded - Post-dropdown verification + AWS UI Cloudscape fix');
+    addStatusMessage('v0.9.2 loaded - Post-dropdown verification + AWS UI Cloudscape fix');
 
 })();
 
