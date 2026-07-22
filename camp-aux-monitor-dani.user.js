@@ -103,7 +103,7 @@
 
     const AUX_THRESHOLDS = {
         'Available': 7200,
-        'Meeting': 7200,
+        'Meeting': 10800,
         'Training': 10800,
         'Missed': 60,
         'Email': 0,
@@ -111,7 +111,7 @@
         'Break2': 915,
         'Break3': 600,
         'Personal': 375,
-        'Project': 7200,
+        'Project': 10800,
         'Lunch': 3615,
         'System': 60,
         'On Contact': 1500,
